@@ -1,0 +1,6 @@
+openstack:
+  public_network_id: PUBLIC_NETWORK_ID
+  image_id: IMAGE_ID
+  flavor_id: FLAVOR_ID
+  key_name: KEY_NAME
+

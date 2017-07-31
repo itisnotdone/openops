@@ -1,0 +1,7 @@
+broker_uri: amqp://ID:PASS@rabbit.example.com:5672//
+mail:
+  smtp_server: mx.example.com
+  sender: openstack@example.com
+  receiver:
+    - foo@example.com
+    - bar@example.com

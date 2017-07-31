@@ -1,0 +1,5 @@
+*.pyc
+env.yml
+instance.yml
+config.yml
+*logfile.log
