@@ -3,4 +3,5 @@ openstack:
   image_id: IMAGE_ID
   flavor_id: FLAVOR_ID
   key_name: KEY_NAME
-
+  admin_users: ADMIN_USER_A,ADMIN_USER_B
+  domain_id: DOMAIN_ID
