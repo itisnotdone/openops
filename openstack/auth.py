@@ -1,7 +1,6 @@
 import os
 import sys
 from pprint import pprint as pp
-from ptpython.repl import embed
 from openstack import connection
 
 def init_auth(version=None):
