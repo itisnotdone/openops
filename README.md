@@ -1,6 +1,6 @@
 # OpenOps
 
-Scrpits for maintaining and trobleshooting Openstac
+Scrpits for maintaining and trobleshooting Openstack
 
 ## Prerequisite
 
